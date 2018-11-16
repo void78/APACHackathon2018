@@ -50,7 +50,7 @@ You are provided with two snapshots of client holdings at a given time. Create v
 
  
 
-[prime_client_metrics.xlsx](/uploads/340cebedab34b9a8d434285fc9a95b67/prime_client_metrics.xlsx)
+[prime_client_metrics.xlsx](https://github.com/anguscheng5/APACHackathon2018/blob/master/prime_client_metrics.xls)
 
  
 
@@ -80,7 +80,7 @@ The first six tabs of the attached **prime_client_metrics.xlsx** contain data. T
 
  
 
-[pb_dashboards.xlsx](/uploads/5330fa47d5d5c418ae79f927d359949f/pb_dashboards.xlsx)
+[pb_dashboards.xlsx](https://github.com/anguscheng5/APACHackathon2018/blob/master/pb_dashboards.xls)
 
  
 
