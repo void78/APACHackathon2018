@@ -25,7 +25,7 @@ The first six tabs of the attached **prime_client_metrics.xlsx** contain data. T
 
 **Private Banking - Client Dashboards**
 Dataset Expert: Marissa Ow
-[pb_dashboards.xlsx](https://github.com/anguscheng5/APACHackathon2018/blob/master/pb_dashboards.xls)
+[pb_dashboards.csv](https://github.com/anguscheng5/APACHackathon2018/blob/master/pb_dashboards.csv)
 
 Use a combination of AI to help Front Office Management understand their client base and provide insights on opportunities and connections.
 
